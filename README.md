@@ -54,9 +54,9 @@ Plot the error for each iteration.
 Print the accuracy.
 
 ## PROGRAM:
-Developed by : Shrruthilaya G
+Developed by : THAMARAISELVAN V
 
-Register number : 212221230097
+Register number : 212221230115
 ```
 import numpy as np 
 import pandas as pd 
